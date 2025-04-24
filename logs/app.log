@@ -1,0 +1,1219 @@
+[2025-04-16 13:44:07] INFO: Serveur démarré sur le port 8080
+[2025-04-16 13:44:08] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 14:03:49] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:03:49] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 14:03:49] ERROR: Erreur de connexion DB : Error: Unknown column 'raiku' in 'where clause'
+[2025-04-16 14:04:11] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:04:11] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 14:04:11] ERROR: Erreur de connexion DB : Error: Unknown column 'raiku' in 'where clause'
+[2025-04-16 14:05:13] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:05:13] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 14:05:13] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 14:06:34] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:06:34] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 14:06:35] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 14:18:13] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:18:13] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 14:18:13] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 14:18:18] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:18:18] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 14:18:18] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 14:18:54] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:18:54] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 14:18:54] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 14:19:13] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:19:13] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 14:19:13] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 14:19:45] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:19:45] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 14:19:45] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 14:22:04] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:22:04] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 14:22:04] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 14:22:09] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:22:09] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 14:22:09] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 14:24:03] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:24:03] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 14:24:03] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 14:24:13] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:24:13] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 14:24:13] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 14:26:07] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:26:07] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 14:26:07] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 14:27:47] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:27:48] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 14:27:48] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 14:27:55] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:27:55] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 14:27:55] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 14:29:11] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:29:11] ERROR: Erreur de connexion DB : Error: Access denied for user 'antoine'@'localhost' (using password: NO)
+[2025-04-16 14:29:33] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:29:33] ERROR: Erreur de connexion DB : Error: Access denied for user 'antoine'@'localhost' (using password: NO)
+[2025-04-16 14:29:35] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:29:35] ERROR: Erreur de connexion DB : Error: Access denied for user 'antoine'@'localhost' (using password: NO)
+[2025-04-16 14:29:43] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:29:43] ERROR: Erreur de connexion DB : Error: Access denied for user 'antoine'@'localhost' (using password: NO)
+[2025-04-16 14:29:53] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:29:53] ERROR: Erreur de connexion DB : Error: Access denied for user 'antoine'@'localhost' (using password: NO)
+[2025-04-16 14:29:57] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:29:57] ERROR: Erreur de connexion DB : Error: Access denied for user 'antoine'@'localhost' (using password: NO)
+[2025-04-16 14:30:22] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:30:22] ERROR: Erreur de connexion DB : Error: Access denied for user 'antoine'@'localhost' (using password: NO)
+[2025-04-16 14:30:56] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:30:56] ERROR: Erreur de connexion DB : Error: Access denied for user 'antoine'@'localhost' (using password: NO)
+[2025-04-16 14:31:00] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:31:00] ERROR: Erreur de connexion DB : Error: Access denied for user 'antoine'@'localhost' (using password: NO)
+[2025-04-16 14:36:38] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:36:38] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 14:36:38] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 14:37:31] INFO: Serveur démarré sur le port 8080
+[2025-04-16 14:37:31] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 14:37:31] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 15:04:29] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:04:29] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:04:29] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 15:07:18] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:07:18] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:07:18] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 15:07:21] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:07:21] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:07:21] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 15:07:27] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:07:27] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:07:27] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 15:07:33] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:07:33] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:07:33] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 15:08:12] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:08:12] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:08:12] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 15:08:20] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:08:20] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:08:20] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 15:08:26] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:08:26] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:08:26] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 15:08:37] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:08:37] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:08:37] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 15:09:31] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:09:31] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:09:31] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 15:09:35] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:09:35] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:09:35] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 15:09:41] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:09:41] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:09:41] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 15:09:46] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:09:46] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:09:46] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 15:09:49] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:09:49] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:09:49] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 15:10:28] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:10:28] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:10:28] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 15:10:34] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:10:34] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:10:34] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 15:16:23] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:16:23] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:16:23] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 15:16:54] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:16:54] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1},{"id":5,"identifier":"charmeleon","species_id":5,"height":11,"weight":190,"base_experience":142,"order":6,"is_default":1},{"id":6,"identifier":"charizard","species_id":6,"height":17,"weight":905,"base_experience":240,"order":7,"is_default":1},{"id":7,"identifier":"squirtle","species_id":7,"height":5,"weight":90,"base_experience":63,"order":10,"is_default":1},{"id":8,"identifier":"wartortle","species_id":8,"height":10,"weight":225,"base_experience":142,"order":11,"is_default":1},{"id":9,"identifier":"blastoise","species_id":9,"height":16,"weight":855,"base_experience":239,"order":12,"is_default":1}]
+[2025-04-16 15:17:14] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:17:14] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:17:14] INFO: Résultats de la requête : []
+[2025-04-16 15:17:29] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:17:29] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:17:29] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:18:02] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:18:02] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:23:05] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:23:05] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:23:05] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:23:12] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:23:12] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:23:16] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:23:16] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:23:37] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:23:37] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:23:37] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:23:41] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:23:41] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:23:45] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:23:45] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:25:25] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:25:25] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:25:30] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:25:30] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:25:42] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:25:42] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:26:13] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:26:13] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:26:13] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:27:06] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:27:06] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:27:06] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:27:09] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:27:09] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:32:07] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:32:07] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:32:07] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:34:35] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:34:35] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:34:35] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:34:45] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:34:45] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:34:45] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:34:58] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:34:58] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:34:58] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:35:01] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:35:01] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:35:01] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:35:13] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:35:13] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:35:13] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:35:18] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:35:19] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:35:19] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:35:28] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:35:28] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:35:28] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:35:34] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:35:34] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:35:34] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:35:59] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:35:59] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:35:59] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:36:04] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:36:04] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:36:04] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:36:13] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:36:13] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:36:13] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:36:34] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:36:34] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:36:34] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:37:03] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:37:03] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:37:03] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:37:05] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:37:05] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:37:05] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:37:08] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:37:08] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:37:08] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:37:15] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:37:15] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:37:15] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:37:25] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:37:25] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:37:44] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:37:44] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:37:44] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:37:51] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:37:51] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:37:51] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:38:01] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:38:01] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:38:01] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:38:04] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:38:04] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:38:04] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:38:07] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:38:08] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:38:08] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:38:17] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:38:17] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:38:17] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:38:23] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:38:23] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:38:23] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:38:33] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:38:33] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:38:33] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:38:37] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:38:37] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:38:37] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:38:52] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:38:52] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:38:52] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:38:55] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:38:55] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:38:55] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:39:08] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:39:08] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:39:08] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:39:12] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:39:12] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:39:12] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:39:16] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:39:16] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:39:16] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:39:22] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:39:22] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:43:50] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:43:51] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:43:51] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:43:52] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:43:52] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:44:41] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:44:41] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:46:16] INFO: Serveur démarré sur le port 8080
+[2025-04-16 15:46:16] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:46:16] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:46:17] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:46:17] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:57:54] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:57:54] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 15:59:10] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 15:59:10] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 16:14:23] INFO: Serveur démarré sur le port 8080
+[2025-04-16 16:14:23] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 16:14:23] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 16:14:39] INFO: Serveur démarré sur le port 8080
+[2025-04-16 16:14:39] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 16:14:39] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 16:16:38] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 16:16:38] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 16:16:42] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 16:16:42] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 16:16:46] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 16:16:46] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 16:16:51] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 16:16:51] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 20:45:23] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:45:23] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:45:23] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-16 20:45:58] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:45:58] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:45:58] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1}]
+[2025-04-16 20:46:19] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:46:19] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:46:19] ERROR: Erreur de connexion DB : Error: Unknown column 'identifer' in 'field list'
+[2025-04-16 20:46:19] ERROR: Connexion DB échouée
+[2025-04-16 20:46:28] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:46:28] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:46:28] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:47:38] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:47:38] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:47:50] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:47:50] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:48:00] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:48:00] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:48:06] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:48:06] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:48:32] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:48:32] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:48:32] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:48:36] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:48:36] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:48:36] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:48:46] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:48:46] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:48:46] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:48:49] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:48:49] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:48:49] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:48:52] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:48:52] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:48:52] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:49:01] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:49:01] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:49:01] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:49:04] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:49:04] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:49:04] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:49:34] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:49:34] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:49:34] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:50:01] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:50:01] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:50:01] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:50:46] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:50:46] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:50:46] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:50:48] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:50:48] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:53:28] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:53:28] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:53:28] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:53:50] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:53:50] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:53:50] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:54:01] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:54:01] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:54:01] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:54:05] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:54:06] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:54:06] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:54:18] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:54:18] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:54:18] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:54:21] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:54:21] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:54:21] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:54:33] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:54:33] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:54:33] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:54:42] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:54:42] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:54:42] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:54:46] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:54:46] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:54:46] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:55:50] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:55:50] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:55:50] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:55:56] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:55:56] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:55:56] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:55:56] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:55:56] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:56:16] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:56:16] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:56:16] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:56:20] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:56:20] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:56:20] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:56:33] INFO: Serveur démarré sur le port 8080
+[2025-04-16 20:56:33] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:56:33] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:56:38] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:56:38] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 20:56:38] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 20:56:38] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-16 21:00:22] INFO: Connexion réussie à la base de données MySQL
+[2025-04-16 21:00:22] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-17 12:35:23] INFO: Serveur démarré sur le port 8080
+[2025-04-17 12:35:23] INFO: Connexion réussie à la base de données MySQL
+[2025-04-17 12:35:23] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-17 12:50:58] INFO: Serveur démarré sur le port 8080
+[2025-04-17 12:50:58] INFO: Connexion réussie à la base de données MySQL
+[2025-04-17 12:50:58] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-17 12:55:01] INFO: Connexion réussie à la base de données MySQL
+[2025-04-17 12:55:01] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-17 12:56:18] INFO: Connexion réussie à la base de données MySQL
+[2025-04-17 12:56:18] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-17 12:56:18] ERROR: Erreur lors de la création du Pokémon : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order, is_default)
+      VALUES (?, ?, ?, ?, ?, ?, ?)' at line 1
+[2025-04-17 12:56:57] INFO: Serveur démarré sur le port 8080
+[2025-04-17 12:56:57] INFO: Connexion réussie à la base de données MySQL
+[2025-04-17 12:56:57] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-17 12:58:30] INFO: Serveur démarré sur le port 8080
+[2025-04-17 12:58:30] INFO: Connexion réussie à la base de données MySQL
+[2025-04-17 12:58:30] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-17 12:58:40] INFO: Connexion réussie à la base de données MySQL
+[2025-04-17 12:58:40] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-17 12:58:40] ERROR: Erreur lors de la création du Pokémon : Field 'id' doesn't have a default value
+[2025-04-17 12:59:57] INFO: Connexion réussie à la base de données MySQL
+[2025-04-17 12:59:57] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-17 12:59:57] ERROR: Erreur lors de la création du Pokémon : Field 'id' doesn't have a default value
+[2025-04-17 13:00:31] INFO: Connexion réussie à la base de données MySQL
+[2025-04-17 13:00:31] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-17 13:00:31] ERROR: Erreur lors de la création du Pokémon : Field 'id' doesn't have a default value
+[2025-04-17 13:00:43] INFO: Connexion réussie à la base de données MySQL
+[2025-04-17 13:00:43] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-17 13:00:43] ERROR: Erreur lors de la création du Pokémon : Field 'id' doesn't have a default value
+[2025-04-17 13:01:11] INFO: Connexion réussie à la base de données MySQL
+[2025-04-17 13:01:11] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-17 13:01:11] ERROR: Erreur lors de la création du Pokémon : Field 'id' doesn't have a default value
+[2025-04-17 13:02:00] INFO: Serveur démarré sur le port 8080
+[2025-04-17 13:02:00] INFO: Connexion réussie à la base de données MySQL
+[2025-04-17 13:02:00] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-17 13:02:10] INFO: Connexion réussie à la base de données MySQL
+[2025-04-17 13:02:10] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-17 13:02:10] ERROR: Erreur lors de la création du Pokémon : Column count doesn't match value count at row 1
+[2025-04-17 13:03:53] INFO: Connexion réussie à la base de données MySQL
+[2025-04-17 13:03:53] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-17 13:03:53] ERROR: Erreur lors de la création du Pokémon : Column count doesn't match value count at row 1
+[2025-04-17 13:04:39] INFO: Connexion réussie à la base de données MySQL
+[2025-04-17 13:04:39] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-17 13:04:39] ERROR: Erreur lors de la création du Pokémon : Column count doesn't match value count at row 1
+[2025-04-17 13:05:03] INFO: Serveur démarré sur le port 8080
+[2025-04-17 13:05:03] INFO: Connexion réussie à la base de données MySQL
+[2025-04-17 13:05:03] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-17 17:42:31] INFO: Serveur démarré sur le port 8080
+[2025-04-17 17:42:31] INFO: Connexion réussie à la base de données MySQL
+[2025-04-17 17:42:31] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-17 17:42:46] INFO: Connexion réussie à la base de données MySQL
+[2025-04-17 17:42:46] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-17 17:42:55] INFO: Connexion réussie à la base de données MySQL
+[2025-04-17 17:42:55] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 10:28:55] INFO: Pool de connexions MySQL initialisé
+[2025-04-18 10:28:55] INFO: Serveur démarré sur le port 8080
+[2025-04-18 10:28:55] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 10:28:55] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 10:29:12] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 10:29:12] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 10:29:16] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 10:29:16] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 10:29:21] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 10:29:21] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 10:29:47] INFO: Serveur démarré sur le port 8080
+[2025-04-18 10:29:47] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 10:29:47] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 10:29:51] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 10:29:51] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 10:29:53] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 10:29:53] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 10:30:06] INFO: Serveur démarré sur le port 8080
+[2025-04-18 10:30:06] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 10:30:06] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 10:30:10] INFO: Serveur démarré sur le port 8080
+[2025-04-18 10:30:10] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 10:30:10] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 10:30:22] INFO: Serveur démarré sur le port 8080
+[2025-04-18 10:30:22] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 10:30:22] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 10:31:29] INFO: Serveur démarré sur le port 8080
+[2025-04-18 10:31:29] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 10:31:29] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 10:31:47] INFO: Serveur démarré sur le port 8080
+[2025-04-18 10:31:47] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 10:31:47] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 10:31:56] INFO: Serveur démarré sur le port 8080
+[2025-04-18 10:31:56] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 10:31:56] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 10:46:07] INFO: Serveur démarré sur le port 8080
+[2025-04-18 10:46:07] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 10:46:07] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:02:21] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:02:21] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:02:21] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:02:26] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:02:27] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:02:27] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:02:31] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:02:31] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:02:31] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:06:55] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:06:55] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:06:55] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:07:00] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:07:00] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:07:00] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:07:14] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:07:14] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:07:14] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:07:18] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:07:18] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:07:18] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:07:21] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:07:21] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:07:21] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:08:10] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:08:10] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:08:10] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:08:45] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:08:45] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:08:45] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:09:00] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:09:00] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:09:00] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:09:08] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:09:08] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:09:08] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:09:12] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:09:12] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:09:12] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:09:17] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:09:17] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:09:17] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:09:25] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:09:25] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:09:25] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:09:29] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:09:29] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:09:29] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:09:38] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:09:38] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:09:38] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:09:41] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:09:41] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:09:41] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:16:18] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:16:18] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:16:18] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:16:30] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:16:30] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:16:30] ERROR: Erreur dans findAllTypes: Table 'stud_pokemon.Type' doesn't exist
+[2025-04-18 11:16:30] ERROR: Erreur lors de la récupération des Types : Table 'stud_pokemon.Type' doesn't exist
+[2025-04-18 11:17:17] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:17:17] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:17:17] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:17:17] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:17:17] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:17:20] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:17:20] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:17:20] ERROR: Erreur dans findTypeById(1): Table 'stud_pokemon.type' doesn't exist
+[2025-04-18 11:17:47] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:17:47] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:17:47] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:17:48] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:17:48] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:24:05] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:24:05] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:24:05] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:24:13] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:24:13] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:24:13] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:24:34] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:24:34] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:24:34] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:24:42] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:24:42] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:24:42] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:24:46] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:24:46] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:24:46] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:24:50] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:24:50] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:24:50] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:24:54] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:24:54] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:24:54] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:25:12] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:25:12] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:25:12] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:25:31] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:25:31] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:25:31] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:25:38] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:25:38] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:25:38] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:25:45] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:25:45] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:25:45] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:26:16] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:26:16] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:26:16] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:26:43] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:26:43] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:26:43] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:26:58] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:26:58] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:26:58] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:27:09] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:27:10] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:27:10] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:27:18] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:27:18] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:27:18] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:27:22] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:27:22] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:27:22] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:27:49] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:27:49] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:27:49] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:27:55] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:27:55] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:27:55] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:28:08] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:28:13] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:28:13] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:28:13] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:28:18] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:28:18] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:28:18] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:28:30] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:28:30] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:28:30] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:28:45] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:28:45] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:28:45] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:28:55] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:28:55] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:28:55] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:31:34] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:31:34] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:31:34] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:33:07] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:33:07] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:33:07] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:34:00] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:34:00] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:34:00] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:34:09] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:34:09] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:34:13] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:34:13] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:36:47] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:36:47] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:36:47] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:36:58] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:36:58] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:36:58] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:37:17] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:37:17] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:37:17] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:38:26] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:38:26] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:38:26] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:38:31] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:38:31] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:38:31] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:38:37] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:38:37] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:38:37] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:38:45] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:38:45] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:38:45] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:39:17] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:39:17] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:39:17] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:39:21] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:39:21] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:39:21] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:39:30] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:39:30] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:39:30] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:39:34] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:39:34] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:39:34] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:39:38] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:39:38] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:39:38] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:39:43] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:39:43] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:39:43] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:39:51] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:39:51] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:39:51] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:40:03] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:40:03] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:40:03] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:40:15] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:40:15] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:40:15] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:40:19] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:40:19] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:40:19] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:40:26] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:40:26] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:40:26] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:40:38] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:40:38] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:40:38] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:40:42] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:40:42] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:40:42] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:40:46] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:40:46] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:40:46] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:40:50] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:40:50] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:40:50] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:41:02] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:41:02] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:41:02] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:41:32] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:41:32] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:41:32] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:41:37] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:41:37] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:41:37] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:41:41] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:41:41] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:41:41] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:41:52] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:41:52] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:41:52] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:41:57] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:41:57] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:41:57] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:42:05] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:42:05] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:42:05] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 11:42:22] INFO: Serveur démarré sur le port 8080
+[2025-04-18 11:42:22] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 11:42:22] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 13:04:54] INFO: Serveur démarré sur le port 8080
+[2025-04-18 13:04:54] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 13:04:54] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 13:05:01] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 13:05:01] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 13:05:06] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 13:05:06] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 13:27:57] INFO: Serveur démarré sur le port 8080
+[2025-04-18 13:27:57] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 13:27:57] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 13:28:34] INFO: Serveur démarré sur le port 8080
+[2025-04-18 13:28:34] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 13:28:34] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 13:28:39] INFO: Serveur démarré sur le port 8080
+[2025-04-18 13:28:39] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 13:28:39] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 13:28:41] INFO: Serveur démarré sur le port 8080
+[2025-04-18 13:28:41] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 13:28:41] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 13:51:47] INFO: Serveur démarré sur le port 8080
+[2025-04-18 13:51:47] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 13:51:47] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 13:52:09] INFO: Serveur démarré sur le port 8080
+[2025-04-18 13:52:10] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 13:52:10] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 13:52:35] INFO: Serveur démarré sur le port 8080
+[2025-04-18 13:52:35] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 13:52:35] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 13:52:46] INFO: Serveur démarré sur le port 8080
+[2025-04-18 13:52:46] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 13:52:46] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 13:54:21] INFO: Serveur démarré sur le port 8080
+[2025-04-18 13:54:21] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 13:54:21] INFO: Résultats de la requête : [{"identifier":"bulbasaur"}]
+[2025-04-18 13:54:33] INFO: Serveur démarré sur le port 8080
+[2025-04-18 13:54:33] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 13:54:54] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 13:54:54] ERROR: Erreur dans findPokemonTypes(1): Table 'stud_pokemon.type' doesn't exist
+[2025-04-18 13:54:54] ERROR: Erreur lors de la récupération des types du Pokémon (1): Table 'stud_pokemon.type' doesn't exist
+[2025-04-18 13:55:14] INFO: Serveur démarré sur le port 8080
+[2025-04-18 13:55:14] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 13:55:17] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 13:55:23] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 13:55:25] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 13:55:28] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 13:59:48] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:10:41] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:10:49] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:19:43] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:19:43] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:20:03] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:20:03] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:20:13] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:20:13] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:20:18] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:20:18] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:20:23] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:20:23] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:20:29] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:20:29] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:20:35] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:20:35] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:20:40] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:20:40] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:20:47] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:20:47] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:20:52] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:20:52] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:21:16] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:21:16] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:21:34] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:21:35] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:21:43] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:21:43] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:21:54] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:22:15] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:22:15] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:22:15] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:23:26] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:23:47] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:29:39] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:29:39] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:29:45] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:29:46] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:29:52] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:29:52] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:30:08] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:30:08] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:30:23] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:30:23] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:30:27] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:30:27] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:30:35] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:30:35] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:30:41] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:30:41] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:30:53] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:30:53] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:31:19] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:31:19] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:31:30] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:31:30] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:32:17] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:32:24] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:32:54] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:32:54] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:33:02] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:33:02] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:33:06] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:33:06] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:33:08] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:33:41] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:34:06] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:34:06] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:34:06] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:34:07] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:34:07] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:34:07] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:34:07] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:54:49] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:57:48] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:57:48] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 14:59:03] INFO: Serveur démarré sur le port 8080
+[2025-04-18 14:59:03] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:00:46] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:00:46] ERROR: Erreur dans insertType: Field 'id' doesn't have a default value
+[2025-04-18 15:00:46] ERROR: Erreur lors de la création du type : Field 'id' doesn't have a default value
+[2025-04-18 15:01:12] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:01:12] ERROR: Erreur dans insertType: Field 'id' doesn't have a default value
+[2025-04-18 15:01:12] ERROR: Erreur lors de la création du type : Field 'id' doesn't have a default value
+[2025-04-18 15:03:43] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:17:57] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:17:57] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:18:25] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:18:25] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:18:54] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:18:54] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:19:19] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:19:35] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:24:59] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:24:59] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:25:20] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:25:20] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:25:29] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:25:29] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:25:37] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:25:37] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:25:45] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:25:45] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:25:50] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:25:50] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:26:05] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:26:39] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:26:57] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:29:30] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:29:40] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:32:07] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:32:07] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:32:54] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:32:54] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:33:34] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:33:34] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:33:59] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:34:10] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:34:49] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:34:55] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:35:23] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:35:23] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:35:26] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:35:33] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:35:55] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:35:55] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:35:56] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:36:09] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:36:22] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:39:48] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:39:48] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:40:08] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:40:08] INFO: Type créé : est (generation_id: 2, damage_class_id: 1)
+[2025-04-18 15:40:56] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:40:56] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:41:19] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:41:19] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:41:43] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:41:43] INFO: Type mis à jour (id: 10006)
+[2025-04-18 15:42:00] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:42:00] INFO: Type supprimé (id: 10006)
+[2025-04-18 15:46:34] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:46:34] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:51:18] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:51:18] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:51:29] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:51:29] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:55:36] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:55:36] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:58:52] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:58:52] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 15:59:11] INFO: Serveur démarré sur le port 8080
+[2025-04-18 15:59:11] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:00:00] INFO: Serveur démarré sur le port 8080
+[2025-04-18 16:00:00] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:00:54] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:00:54] ERROR: Erreur dans insertMove: Column count doesn't match value count at row 1
+[2025-04-18 16:00:54] ERROR: Erreur lors de la création du move : Column count doesn't match value count at row 1
+[2025-04-18 16:01:59] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:01:59] ERROR: Erreur dans insertMove: Column count doesn't match value count at row 1
+[2025-04-18 16:01:59] ERROR: Erreur lors de la création du move : Column count doesn't match value count at row 1
+[2025-04-18 16:04:32] INFO: Serveur démarré sur le port 8080
+[2025-04-18 16:04:32] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:05:01] INFO: Serveur démarré sur le port 8080
+[2025-04-18 16:05:01] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:05:52] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:05:52] ERROR: Erreur dans insertMove: Column count doesn't match value count at row 1
+[2025-04-18 16:05:52] ERROR: Erreur lors de la création du move : Column count doesn't match value count at row 1
+[2025-04-18 16:10:06] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:10:06] ERROR: Erreur dans insertMove: Column count doesn't match value count at row 1
+[2025-04-18 16:10:06] ERROR: Erreur lors de la création du move : Column count doesn't match value count at row 1
+[2025-04-18 16:11:00] INFO: Serveur démarré sur le port 8080
+[2025-04-18 16:11:00] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:11:09] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:11:09] INFO: Move créé : flamethrower
+[2025-04-18 16:32:34] INFO: Serveur démarré sur le port 8080
+[2025-04-18 16:32:34] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:32:46] INFO: Serveur démarré sur le port 8080
+[2025-04-18 16:32:46] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:32:53] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:32:53] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:32:53] INFO: Move mis à jour (id: 10019)
+[2025-04-18 16:33:42] INFO: Serveur démarré sur le port 8080
+[2025-04-18 16:33:42] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:34:10] INFO: Serveur démarré sur le port 8080
+[2025-04-18 16:34:10] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:34:30] INFO: Serveur démarré sur le port 8080
+[2025-04-18 16:34:30] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:34:42] INFO: Serveur démarré sur le port 8080
+[2025-04-18 16:34:42] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:34:54] INFO: Serveur démarré sur le port 8080
+[2025-04-18 16:34:54] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:35:11] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:35:11] INFO: Move supprimé (id: 10019)
+[2025-04-18 16:39:12] INFO: Serveur démarré sur le port 8080
+[2025-04-18 16:39:13] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:42:40] INFO: Serveur démarré sur le port 8080
+[2025-04-18 16:42:40] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:44:22] INFO: Serveur démarré sur le port 8080
+[2025-04-18 16:44:22] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:46:29] INFO: Serveur démarré sur le port 8080
+[2025-04-18 16:46:29] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:47:18] INFO: Serveur démarré sur le port 8080
+[2025-04-18 16:47:18] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:47:47] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:47:47] INFO: Item créé : super-potion
+[2025-04-18 16:48:06] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:48:06] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:48:06] INFO: Item mis à jour (id: 750)
+[2025-04-18 16:48:22] INFO: Connexion réussie à la base de données MySQL
+[2025-04-18 16:48:22] INFO: Item supprimé (id: 750)
+[2025-04-20 14:52:09] INFO: Serveur démarré sur le port 8080
+[2025-04-20 14:52:09] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 14:52:09] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-20 14:53:02] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 14:53:02] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-20 14:53:26] INFO: Serveur démarré sur le port 8080
+[2025-04-20 14:53:26] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 14:53:26] INFO: Résultats de la requête : [{"id":1,"identifier":"bulbasaur","species_id":1,"height":7,"weight":69,"base_experience":64,"order":1,"is_default":1},{"id":2,"identifier":"ivysaur","species_id":2,"height":10,"weight":130,"base_experience":142,"order":2,"is_default":1},{"id":3,"identifier":"venusaur","species_id":3,"height":20,"weight":1000,"base_experience":236,"order":3,"is_default":1},{"id":4,"identifier":"charmander","species_id":4,"height":6,"weight":85,"base_experience":62,"order":5,"is_default":1}]
+[2025-04-20 14:53:35] INFO: Serveur démarré sur le port 8080
+[2025-04-20 14:53:35] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 14:53:54] INFO: Serveur démarré sur le port 8080
+[2025-04-20 14:53:54] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 14:54:03] INFO: Serveur démarré sur le port 8080
+[2025-04-20 14:54:03] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 14:59:48] INFO: Serveur démarré sur le port 8080
+[2025-04-20 14:59:48] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:00:05] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:00:05] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:00:21] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:00:21] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:00:31] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:00:31] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:01:24] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:01:24] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:01:42] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:01:42] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:01:48] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:01:48] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:01:54] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:01:54] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:02:21] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:02:21] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:03:09] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:03:09] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:03:14] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:03:14] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:04:14] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:05:29] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:05:29] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:14:42] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:14:42] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:16:22] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:18:44] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:18:44] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:20:07] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:20:07] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:20:07] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:20:36] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:20:37] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:21:03] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:23:58] ERROR: JWT verification error: invalid signature
+[2025-04-20 15:24:50] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:27:09] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:27:09] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:27:27] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:27:27] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:28:38] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:28:51] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:32:09] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:32:09] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:33:46] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:33:46] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:36:53] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:36:53] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:39:01] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:39:01] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:39:08] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:39:08] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:39:30] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:39:30] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:39:46] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:39:46] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:44:31] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:44:31] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:44:56] INFO: Register attempt
+[2025-04-20 15:44:56] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:44:56] WARN: Email already in use
+[2025-04-20 15:45:25] INFO: Register attempt
+[2025-04-20 15:45:25] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:45:25] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:45:25] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:45:25] INFO: User registered successfully
+[2025-04-20 15:46:12] INFO: Login attempt
+[2025-04-20 15:46:12] WARN: Missing email or password on login
+[2025-04-20 15:46:21] INFO: Login attempt
+[2025-04-20 15:46:21] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:46:21] INFO: Login successful
+[2025-04-20 15:47:09] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:47:41] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:47:58] INFO: Fetching current user
+[2025-04-20 15:47:58] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:47:58] INFO: Current user data sent
+[2025-04-20 15:53:18] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:53:18] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:53:43] WARN: Authentication failed: no token provided
+[2025-04-20 15:53:52] WARN: Authentication failed: no token provided
+[2025-04-20 15:54:56] INFO: Authenticating token...
+[2025-04-20 15:54:56] INFO: Token authenticated successfully
+[2025-04-20 15:54:56] INFO: Fetching current user
+[2025-04-20 15:54:56] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:54:56] INFO: Current user data sent
+[2025-04-20 15:55:18] INFO: Authenticating token...
+[2025-04-20 15:55:18] INFO: Token authenticated successfully
+[2025-04-20 15:55:18] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:55:55] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:55:55] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:56:07] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:56:07] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:56:22] INFO: Authenticating token...
+[2025-04-20 15:56:22] INFO: Token authenticated successfully
+[2025-04-20 15:56:22] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:56:22] INFO: Pokemon found
+[2025-04-20 15:57:45] INFO: Serveur démarré sur le port 8080
+[2025-04-20 15:57:45] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:57:45] INFO: Authenticating token...
+[2025-04-20 15:57:45] INFO: Token authenticated successfully
+[2025-04-20 15:57:45] INFO: Connexion réussie à la base de données MySQL
+[2025-04-20 15:57:45] INFO: pokemon 1 found
+[2025-04-22 07:40:59] INFO: Serveur démarré sur le port 8080
+[2025-04-22 07:40:59] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 07:41:18] WARN: Authentication failed: no token provided
+[2025-04-22 07:41:44] INFO: Authenticating token...
+[2025-04-22 07:41:44] ERROR: JWT verification error
+[2025-04-22 07:42:05] ERROR: Error in registerUser Cannot destructure property 'username' of 'req.body' as it is undefined.
+[2025-04-22 07:42:56] INFO: Register attempt
+[2025-04-22 07:42:56] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 07:42:56] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 07:42:56] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 07:42:56] INFO: User registered successfully
+[2025-04-22 07:43:14] INFO: Authenticating token...
+[2025-04-22 07:43:14] ERROR: JWT verification error
+[2025-04-22 07:43:32] INFO: Login attempt
+[2025-04-22 07:43:32] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 07:43:32] INFO: Login successful
+[2025-04-22 07:44:11] INFO: Authenticating token...
+[2025-04-22 07:44:11] INFO: Token authenticated successfully
+[2025-04-22 07:44:11] INFO: Fetching current user
+[2025-04-22 07:44:11] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 07:44:11] INFO: Current user data sent
+[2025-04-22 07:44:39] INFO: Authenticating token...
+[2025-04-22 07:44:39] INFO: Token authenticated successfully
+[2025-04-22 07:44:40] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 07:44:40] INFO: pokemon 1 found
+[2025-04-22 07:44:59] WARN: Authentication failed: no token provided
+[2025-04-22 08:01:47] INFO: Serveur démarré sur le port 8080
+[2025-04-22 08:01:47] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 08:01:51] INFO: Authenticating token...
+[2025-04-22 08:01:51] INFO: Token authenticated successfully
+[2025-04-22 08:01:51] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 08:01:51] INFO: pokemon 1 found
+[2025-04-22 08:01:53] INFO: Authenticating token...
+[2025-04-22 08:01:53] INFO: Token authenticated successfully
+[2025-04-22 08:01:53] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 08:02:23] INFO: Serveur démarré sur le port 8080
+[2025-04-22 08:02:23] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 08:02:47] INFO: Serveur démarré sur le port 8080
+[2025-04-22 08:02:47] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 08:03:16] INFO: Serveur démarré sur le port 8080
+[2025-04-22 08:03:16] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 11:36:01] INFO: Serveur démarré sur le port 8080
+[2025-04-22 11:36:01] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 11:36:16] INFO: Authenticating token...
+[2025-04-22 11:36:16] ERROR: JWT verification error
+[2025-04-22 11:36:38] INFO: Register attempt
+[2025-04-22 11:36:38] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 11:36:38] WARN: Email already in use
+[2025-04-22 11:36:43] INFO: Register attempt
+[2025-04-22 11:36:43] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 11:36:43] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 11:36:43] WARN: Username already taken
+[2025-04-22 11:36:50] INFO: Register attempt
+[2025-04-22 11:36:50] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 11:36:50] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 11:36:50] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 11:36:50] INFO: User registered successfully
+[2025-04-22 11:36:59] INFO: Login attempt
+[2025-04-22 11:36:59] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 11:36:59] INFO: Login successful
+[2025-04-22 11:37:22] INFO: Authenticating token...
+[2025-04-22 11:37:22] INFO: Token authenticated successfully
+[2025-04-22 11:37:22] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 11:37:27] INFO: Authenticating token...
+[2025-04-22 11:37:27] INFO: Token authenticated successfully
+[2025-04-22 11:37:27] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 11:37:27] INFO: pokemon 1 found
+[2025-04-22 11:37:37] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 11:37:45] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 14:58:25] INFO: Serveur démarré sur le port 8080
+[2025-04-22 14:58:25] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 14:59:20] WARN: Authentication failed: no token provided
+[2025-04-22 15:04:42] INFO: Serveur démarré sur le port 8080
+[2025-04-22 15:04:42] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 15:04:47] INFO: Serveur démarré sur le port 8080
+[2025-04-22 15:04:47] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 15:05:01] WARN: Authentication failed: no token provided
+[2025-04-22 15:05:27] INFO: Register attempt
+[2025-04-22 15:05:27] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 15:05:27] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 15:05:28] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 15:05:28] INFO: User registered successfully
+[2025-04-22 15:05:35] INFO: Login attempt
+[2025-04-22 15:05:35] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 15:05:35] INFO: Login successful
+[2025-04-22 15:05:55] INFO: Authenticating token...
+[2025-04-22 15:05:55] INFO: Token authenticated successfully
+[2025-04-22 15:05:55] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 15:06:01] INFO: Authenticating token...
+[2025-04-22 15:06:01] INFO: Token authenticated successfully
+[2025-04-22 15:06:01] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 15:06:01] INFO: pokemon 1 found
+[2025-04-22 15:06:05] INFO: Authenticating token...
+[2025-04-22 15:06:05] INFO: Token authenticated successfully
+[2025-04-22 15:06:05] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 15:06:11] INFO: Authenticating token...
+[2025-04-22 15:06:11] INFO: Token authenticated successfully
+[2025-04-22 15:06:11] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 15:06:21] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 15:07:11] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 15:07:11] INFO: Type créé : weird (generation_id: 2, damage_class_id: 1)
+[2025-04-22 15:07:21] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 15:07:25] INFO: Connexion réussie à la base de données MySQL
+[2025-04-22 15:07:25] INFO: Type supprimé (id: 10007)
+[2025-04-24 14:32:31] INFO: Serveur démarré sur le port 8080
+[2025-04-24 14:32:31] INFO: Connexion réussie à la base de données MySQL
+[2025-04-24 14:33:05] INFO: Connexion réussie à la base de données MySQL
+[2025-04-24 14:33:25] WARN: Authentication failed: no token provided
